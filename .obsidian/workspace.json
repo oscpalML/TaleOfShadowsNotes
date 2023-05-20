@@ -13,6 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Lore/Poem.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "53e2cf76d15f065c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "437a849ae3d16e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Map/Map.md",
                 "mode": "source",
                 "backlinks": true,
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map/Map.md",
+                "file": "Lore/Poem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map/Map.md",
+                "file": "Lore/Poem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map/Map.md"
+                "file": "Lore/Poem.md"
               }
             }
           }
@@ -150,7 +169,16 @@
   },
   "active": "d4d14266ef900913",
   "lastOpenFiles": [
+    "Lore/Gods of Night.md",
+    "Lore/Gods of Light.md",
+    "Fusklappar/Shop.md",
+    "Fusklappar/Settlements.md",
+    "Fusklappar/Encounter.md",
     "README.md",
+    "Map/Map.md",
+    "Places/The Silver Coast/Silveria.md",
+    "Places/Loháven/Colonies/Channel, The Dale/Orlande.md",
+    "Timeline.md",
     "Events/The Reformation.md",
     "Events/The Red Day.md",
     "Events/Timeline junk/Loháven is united.md",
@@ -162,20 +190,11 @@
     "Events/Timeline junk/Irori ascends.md",
     "Events/Timeline junk/Loháven civil war.md",
     "Events/Timeline junk/Loháven Colonisation begin.md",
-    "Timeline.md",
     "Story/Sessions/Session 1 Sum.md",
     "Story/Nazromir/Gust and Nazromir's mission.md",
     "Story/Nazromir/Accounts of the Orlande tragedy.md",
     "Places/The Golden Tip.md",
     "Places/Riddlebrooks.md",
-    "Places/Yinora/Kerranor.md",
-    "Places/Tir na Lir/Tir na Lir.md",
-    "Places/Tir na Lir/Eversun.md",
-    "Places/The Silver Coast/Silveria.md",
-    "Places/The Silver Coast/Celebros, The Silver Coast.md",
-    "Places/Nólalote/Nólalóte.md",
-    "Places/Mid-Sea Islands, Kailani/Mid-sea islands, Kailani.md",
-    "Places/Loháven/Colonies/Channel, The Dale/Dales.md",
     "Images/YangoraHex.png",
     "Images/YellowfieldImage.jpg",
     "Images/ZonKuthon.webp",
