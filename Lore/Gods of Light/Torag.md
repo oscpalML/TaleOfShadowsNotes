@@ -1,0 +1,1 @@
+#Todo Torag is a stoic and serious god who values honor, planning, and well-made steel. (dwarf)

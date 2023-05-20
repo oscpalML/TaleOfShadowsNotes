@@ -1,0 +1,2 @@
+#Todo 
+Alseta is the goddess of doorways, portals, thresholds, and the transition from year to year. She maintains favorable relations with most civilized deities, watching over their domains in times of their absence or playing hostess for gatherings of gods. She is informally the goddess of teleportation

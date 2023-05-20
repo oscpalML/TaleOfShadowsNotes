@@ -1,0 +1,5 @@
+**Tir na Lir (the land of eternal light)** - Tir na Lir is a land of eternal light, where the sun never sets but lingers on the horizon, painting the sky with fiery hues. The people of Tir na Lir live in harmony with nature, enjoying the warmth and beauty of the endless twilight. They celebrate life with music, dance and poetry, and honor their ancestors with rituals and offerings. 
+
+The halfling folk of Tir na Lir are a cheerful and friendly race, who love to eat, drink and tell stories. They live in cozy burrows under the hills, surrounded by gardens and orchards. They are skilled farmers and craftsmen, who make fine clothes, pottery and jewelry. They are also fond of music and singing, and often play their flutes, fiddles and harps at festivals and parties.
+
+The ancient nation of Tir na Lir is one of the oldest and most powerful civilization in the land. The people of the ancient nation are tall and fair, with golden hair and eyes. They are wise and noble, but have little aspirations to explore the outside world. They live in splendid cities of marble and gold, where they study the mysteries of the soul and create marvelous artistic expressions.
