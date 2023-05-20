@@ -1,5 +1,6 @@
 # DualityGitPublic
  
+STEG 1: LADDA NED OBSIDIAN (anteckningsmjukvara)
 ## Få kartan & timeline att fungera
 Gå till inställningar i obsidian:
 --> Community Plugins

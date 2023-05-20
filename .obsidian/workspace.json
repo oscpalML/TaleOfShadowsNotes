@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Poem.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Poem.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Poem.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Poem.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "d4d14266ef900913",
   "lastOpenFiles": [
+    "Lore/Poem.md",
     "Lore/Gods of Night.md",
     "Lore/Gods of Light.md",
     "Fusklappar/Shop.md",
@@ -194,7 +195,6 @@
     "Story/Nazromir/Gust and Nazromir's mission.md",
     "Story/Nazromir/Accounts of the Orlande tragedy.md",
     "Places/The Golden Tip.md",
-    "Places/Riddlebrooks.md",
     "Images/YangoraHex.png",
     "Images/YellowfieldImage.jpg",
     "Images/ZonKuthon.webp",
