@@ -1,16 +1,7 @@
 ---
-tags: [timeline, PC, loháven]
+tags: [loháven]
 ---
 #EVENT 
-<span  
-class='ob-timelines'  
-data-date='1344-1-13'  
-data-title='Mayor Edwins Event'  
-data-class='orange'  
-data-img = 'Images/Banquet.jpg'  
-data-type='range'>  
-Mayor Edwin announces he has a powerful magical method.
-</span>
 
 Nazromir anländer till [[Yellowfield]] i letan efter en mantel som ska vara prydd med [[Gust]]'s man. Bom har manteln, och [[Nazromir]] stalkar honom och [[Rayleigh (Jirarn)]] när de gör inbrott i ett övre rum på [[Yellowfield#The Flying Stallion Bar Housing]] för att busa med [[Blue Fang Gang]]. Där inne lämnar de en bajsmacka som massäck i deras ryggsäckar och hittar en lapp där det står att de ska attackera/kidnappa nån nobelman i [[Yellowfield#The Barge Bar]]. 
 

@@ -1,0 +1,1 @@
+An ally of [[The Red Baron]], attended [[Mayor Edwins Announcement]].

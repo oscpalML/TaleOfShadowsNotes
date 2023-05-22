@@ -1,5 +1,5 @@
 ---
-tags: [timeline, historic, pc]
+tags: [timeline, historic]
 ---
 <span  
 class='ob-timelines'  
