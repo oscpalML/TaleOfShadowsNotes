@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign/Smallcrest encounter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "199c587845fe5394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
+                "file": "Story/Nazromir/Gust and Nazromir's mission.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline.md",
+                "file": "Story/Nazromir/Gust and Nazromir's mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline.md",
+                "file": "Story/Nazromir/Gust and Nazromir's mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline.md"
+                "file": "Story/Nazromir/Gust and Nazromir's mission.md"
               }
             }
           }
@@ -162,19 +148,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "199c587845fe5394",
+  "active": "b04d0765f11e80e2",
   "lastOpenFiles": [
-    "Events/Campaign/Journey to Smallcrest.md",
-    "Timeline.md",
+    "Story/Nazromir/Accounts of the Orlande tragedy.md",
+    "Story/Nazromir/Gust and Nazromir's mission.md",
+    "Mayor Edwin's Journal.md",
+    "Characters/The Patron.md",
+    "Characters/Rayleigh (Jirarn).md",
+    "Characters",
+    "Fusklappar/Encounter.md",
+    "Fusklappar/Settlements.md",
+    "Fusklappar/Shop.md",
+    "Lore/Poem.md",
+    "Lore/Gods of Night.md",
+    "Images/MayorEdwin.jpeg",
+    "Images/TheRedBaron.jpeg",
+    "Events/Campaign/Return to Yellowfield.md",
     "Events/Campaign/Smallcrest encounter.md",
+    "Events/Campaign/Journey to Smallcrest.md",
+    "Events/Campaign/Mayor Edwins Announcement.md",
+    "Events/Campaign/Arrival at Yellowfield.md",
+    "Mysterious Divine Language.md",
+    "Images/TheNewDawnSymbol.jpg",
+    "Timeline.md",
+    "Story/Sessions/Session 1 Sum.md",
     "Images/smallcrest.jpg",
     "Images/smallcrest.jpg.crdownload",
-    "Events/Campaign/Arrival at Yellowfield.md",
-    "Events/Campaign/Mayor Edwins Announcement.md",
     "Images/river_journey.jpg",
     "Images/river_journey.jpg.crdownload",
-    "Lord Bertram.md",
-    "Red Baron.md",
+    "Characters/Lord Bertram.md",
+    "Characters/Red Baron.md",
     "Events/Timeline junk/Campaign start.md",
     "README.md",
     "Images/RedDay.png",
@@ -182,32 +185,16 @@
     "Events/Timeline junk/Loháven civil war.md",
     "Events/Timeline junk/Nazromir is born.md",
     "Events/Timeline junk/The Desecration.md",
-    "Events/Timeline junk/The Red Day.md",
-    "Events/Timeline junk/Loháven is united.md",
-    "Events/Timeline junk/Loháven Colonisation begin.md",
-    "Events/Timeline junk/The Reformation.md",
-    "Events/Timeline junk/Iomedae travels the world.md",
-    "Events/Timeline junk/Celebros unification war.md",
-    "Events/Timeline junk/The Mission.md",
-    "Story/Sessions/Session 1 Sum.md",
-    "Story/Inbjudan till festen i Yellowfield.md",
-    "Places/Loháven/Colonies/Bloodfield/Bloodfield.md",
     "Images/TheMaw.jpg",
     "Images/YellowfieldLandscape.jpg",
     "Images/YellowfieldLandscape.jfif",
     "Images/YellowfieldLandscape.jfif.crdownload",
-    "Events/Untitled.md",
     "Events/Campaign",
-    "Places/Loháven/Colonies/Bloodfield/Yellowfield.md",
     "Images/YangoraHex.png",
     "Images/YellowfieldImage.jpg",
-    "Images/ZonKuthon.webp",
-    "Images/YangoraHex.jpg",
-    "Images/Yangora.PNG",
     "Map/leaflet_marker_data.csv",
     "Map/plugins/obsidian-leaflet-plugin/data.json",
     "Map/plugins/obsidian-leaflet-plugin",
-    "Map/plugins/plugins/obsidian-leaflet-plugin/data.json",
-    "Map/plugins/plugins/obsidian-leaflet-plugin"
+    "Map/plugins/plugins/obsidian-leaflet-plugin/data.json"
   ]
 }
