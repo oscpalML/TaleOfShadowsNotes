@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "213db271f19fc530",
+        "id": "600d2db5fc91adf9",
         "type": "tabs",
         "children": [
           {
-            "id": "b04d0765f11e80e2",
+            "id": "5ed62bb1524674c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Nazromir/Gust and Nazromir's mission.md",
+                "file": "Events/Campaign/Session 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Nazromir/Gust and Nazromir's mission.md",
+                "file": "Events/Campaign/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Nazromir/Gust and Nazromir's mission.md",
+                "file": "Events/Campaign/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Nazromir/Gust and Nazromir's mission.md"
+                "file": "Events/Campaign/Session 3.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,43 +149,43 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b04d0765f11e80e2",
+  "active": "5ed62bb1524674c1",
   "lastOpenFiles": [
-    "Story/Nazromir/Accounts of the Orlande tragedy.md",
-    "Story/Nazromir/Gust and Nazromir's mission.md",
-    "Mayor Edwin's Journal.md",
-    "Characters/The Patron.md",
-    "Characters/Rayleigh (Jirarn).md",
-    "Characters",
-    "Fusklappar/Encounter.md",
-    "Fusklappar/Settlements.md",
-    "Fusklappar/Shop.md",
-    "Lore/Poem.md",
-    "Lore/Gods of Night.md",
-    "Images/MayorEdwin.jpeg",
-    "Images/TheRedBaron.jpeg",
-    "Events/Campaign/Return to Yellowfield.md",
-    "Events/Campaign/Smallcrest encounter.md",
+    "Timeline.md",
+    "Events/Campaign/Session 3.md",
     "Events/Campaign/Journey to Smallcrest.md",
     "Events/Campaign/Mayor Edwins Announcement.md",
-    "Events/Campaign/Arrival at Yellowfield.md",
-    "Mysterious Divine Language.md",
+    "Events/Timeline junk/The Red Day.md",
+    "Characters/The Red Baron.md",
+    "Characters/Lady Isadora.md",
+    "Characters/Lady Rosalind.md",
+    "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
+    "Places/Loháven/Colonies/Bloodfield/Highfield.md",
+    "Places/Loháven/Colonies/Bloodfield/Norfield.md",
+    "Places/Loháven/Colonies/Bloodfield/Smallcrest.md",
+    "Places/Loháven/Colonies/Bloodfield/River Term.md",
+    "Places/Faction Specific/Serenity atoll.md",
+    "Places/Dur'Gurn/Dur'Gurn.md",
+    "Places/Dur'Gurn/Titan’s End.md",
+    "Places/Ashenfell/Blighthollow.md",
+    "Places/Ashenfell/Ashenfell.md",
+    "Places/Ashenfell/The Maw.md",
+    "Places/Aranor/Aranor.md",
+    "Lore/Gods of Night.md",
+    "Lore/Gods of Light.md",
+    "Places/Loháven/Colonies/Bloodfield/Yellowfield.md",
+    "Characters/Mayor Edwin.md",
+    "Events/Campaign/Return to Yellowfield.md",
+    "Places/Loháven/Abadae.md",
+    "Images/MayorEdwin.jpeg",
+    "Characters",
+    "Images/TheRedBaron.jpeg",
     "Images/TheNewDawnSymbol.jpg",
-    "Timeline.md",
-    "Story/Sessions/Session 1 Sum.md",
     "Images/smallcrest.jpg",
     "Images/smallcrest.jpg.crdownload",
     "Images/river_journey.jpg",
     "Images/river_journey.jpg.crdownload",
-    "Characters/Lord Bertram.md",
-    "Characters/Red Baron.md",
-    "Events/Timeline junk/Campaign start.md",
-    "README.md",
     "Images/RedDay.png",
-    "Events/Timeline junk/Irori ascends.md",
-    "Events/Timeline junk/Loháven civil war.md",
-    "Events/Timeline junk/Nazromir is born.md",
-    "Events/Timeline junk/The Desecration.md",
     "Images/TheMaw.jpg",
     "Images/YellowfieldLandscape.jpg",
     "Images/YellowfieldLandscape.jfif",

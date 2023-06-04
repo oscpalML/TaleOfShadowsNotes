@@ -1,0 +1,1 @@
+Orlande was wiped out in [[The Orlande Tragedy]]. 

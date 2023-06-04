@@ -5,7 +5,6 @@
       "lastAccessed": 1684582324667,
       "markers": [
         {
-          "id": "Shallowport",
           "type": "default",
           "loc": [
             310.5,
@@ -13,16 +12,15 @@
           ],
           "link": "Shallowport",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Shallowport",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Farshore Port",
           "type": "default",
           "loc": [
             324.75,
@@ -30,16 +28,15 @@
           ],
           "link": "Farshore Port",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Farshore Port",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Yellowfield",
           "type": "default",
           "loc": [
             336.90625,
@@ -47,16 +44,15 @@
           ],
           "link": "Yellowfield",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Yellowfield",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Smallcrest",
           "type": "default",
           "loc": [
             341.802734375,
@@ -64,16 +60,15 @@
           ],
           "link": "Smallcrest",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Smallcrest",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Norfield",
           "type": "default",
           "loc": [
             349.91796875,
@@ -81,16 +76,15 @@
           ],
           "link": "Norfield",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Norfield",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Highfield",
           "type": "default",
           "loc": [
             343.16796875,
@@ -98,16 +92,15 @@
           ],
           "link": "Highfield",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Highfield",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "River Term",
           "type": "default",
           "loc": [
             329.85546875,
@@ -115,16 +108,15 @@
           ],
           "link": "River Term",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "River Term",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Ester",
           "type": "default",
           "loc": [
             358.1875,
@@ -132,16 +124,15 @@
           ],
           "link": "Ester",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Ester",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Dales",
           "type": "default",
           "loc": [
             346.25,
@@ -149,16 +140,15 @@
           ],
           "link": "Dales",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Dales",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Hallyn",
           "type": "default",
           "loc": [
             318.79296875,
@@ -166,16 +156,15 @@
           ],
           "link": "Hallyn",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Hallyn",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Blighthollow",
           "type": "default",
           "loc": [
             273.5,
@@ -183,16 +172,15 @@
           ],
           "link": "Blighthollow",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Blighthollow",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "TheMaw",
           "type": "default",
           "loc": [
             290,
@@ -200,16 +188,15 @@
           ],
           "link": "TheMaw",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "TheMaw",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Iomedar",
           "type": "default",
           "loc": [
             227.2109375,
@@ -217,16 +204,15 @@
           ],
           "link": "Iomedar",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Iomedar",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Dur'Gurn",
           "type": "default",
           "loc": [
             147.25,
@@ -234,16 +220,15 @@
           ],
           "link": "Dur'Gurn",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Dur'Gurn",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Nólalóte",
           "type": "default",
           "loc": [
             216.9609375,
@@ -251,16 +236,15 @@
           ],
           "link": "Nólalóte",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Nólalóte",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Orlande",
           "type": "default",
           "loc": [
             327.875,
@@ -268,16 +252,15 @@
           ],
           "link": "Orlande",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Orlande",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Serenity atoll",
           "type": "default",
           "loc": [
             183.671875,
@@ -285,16 +268,15 @@
           ],
           "link": "Serenity atoll",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Serenity atoll",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Silveria",
           "type": "default",
           "loc": [
             255.2109375,
@@ -302,16 +284,15 @@
           ],
           "link": "Silveria",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Silveria",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Eversun",
           "type": "default",
           "loc": [
             387.73046875,
@@ -319,16 +300,15 @@
           ],
           "link": "Eversun",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Eversun",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Refuge",
           "type": "default",
           "loc": [
             242.73046875,
@@ -336,16 +316,15 @@
           ],
           "link": "Refuge",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Refuge",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Abadae",
           "type": "default",
           "loc": [
             224.23046875,
@@ -353,16 +332,15 @@
           ],
           "link": "Abadae",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Abadae",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Baal",
           "type": "default",
           "loc": [
             68.79296875,
@@ -370,16 +348,15 @@
           ],
           "link": "Baal",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Baal",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Titan’s End",
           "type": "default",
           "loc": [
             72.2109375,
@@ -387,16 +364,15 @@
           ],
           "link": "Titan’s End",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Titan’s End",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Behl’Gurn",
           "type": "default",
           "loc": [
             129.4609375,
@@ -404,16 +380,15 @@
           ],
           "link": "Behl’Gurn",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Behl’Gurn",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Mid-sea islands, Kailani",
           "type": "default",
           "loc": [
             218.3359375,
@@ -421,16 +396,15 @@
           ],
           "link": "Mid-sea islands, Kailani",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Mid-sea islands, Kailani",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "Loháven",
           "type": "default",
           "loc": [
             227.421875,
@@ -438,10 +412,10 @@
           ],
           "link": "Loháven",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
-          "mutable": true,
+          "id": "Loháven",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
