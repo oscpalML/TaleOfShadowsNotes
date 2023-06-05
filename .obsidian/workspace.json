@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "600d2db5fc91adf9",
+        "id": "ca9523af9fd16433",
         "type": "tabs",
         "children": [
           {
-            "id": "5ed62bb1524674c1",
+            "id": "0bc9494f0985de71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign/Session 3.md",
+                "file": "Events/Campaign/Intrigues in Farshore Port.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Campaign/Session 3.md",
+                "file": "Events/Campaign/Intrigues in Farshore Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Campaign/Session 3.md",
+                "file": "Events/Campaign/Intrigues in Farshore Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Campaign/Session 3.md"
+                "file": "Events/Campaign/Intrigues in Farshore Port.md"
               }
             }
           }
@@ -149,34 +149,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5ed62bb1524674c1",
+  "active": "0bc9494f0985de71",
   "lastOpenFiles": [
-    "Timeline.md",
-    "Events/Campaign/Session 3.md",
-    "Events/Campaign/Journey to Smallcrest.md",
-    "Events/Campaign/Mayor Edwins Announcement.md",
-    "Events/Timeline junk/The Red Day.md",
-    "Characters/The Red Baron.md",
-    "Characters/Lady Isadora.md",
-    "Characters/Lady Rosalind.md",
+    "The Dale.md",
+    "Events/Campaign/Intrigues in Farshore Port.md",
     "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
-    "Places/Loháven/Colonies/Bloodfield/Highfield.md",
-    "Places/Loháven/Colonies/Bloodfield/Norfield.md",
-    "Places/Loháven/Colonies/Bloodfield/Smallcrest.md",
-    "Places/Loháven/Colonies/Bloodfield/River Term.md",
-    "Places/Faction Specific/Serenity atoll.md",
-    "Places/Dur'Gurn/Dur'Gurn.md",
-    "Places/Dur'Gurn/Titan’s End.md",
-    "Places/Ashenfell/Blighthollow.md",
-    "Places/Ashenfell/Ashenfell.md",
-    "Places/Ashenfell/The Maw.md",
-    "Places/Aranor/Aranor.md",
-    "Lore/Gods of Night.md",
-    "Lore/Gods of Light.md",
-    "Places/Loháven/Colonies/Bloodfield/Yellowfield.md",
-    "Characters/Mayor Edwin.md",
+    "CrusadePriest.png.md",
+    "Factions/Major/The New Dawn.md",
+    "Rose.md",
+    "Nazromir.md",
+    "Characters/The Patron.md",
+    "The New Dawn.md",
+    "The Twillight Veil.md",
+    "The Twilligt Veil.md",
+    "Characters/The Red Baron.md",
+    "Factions/Major/The Brightfangs.md",
+    "Images/stable-diffusion-xl_clipdrop-variants_clipdrop-enhance.jpeg",
+    "Images/civilwar.jpg",
+    "Images/TheGreatCrack.png",
+    "Images/RedCourtyard.png",
+    "Images/Union Church.jpg",
     "Events/Campaign/Return to Yellowfield.md",
+    "Lore/Gods of Light/Sarenrae.md",
+    "Lore/Gods of Light.md",
+    "Lore/Gods of Light/Erastil.md",
     "Places/Loháven/Abadae.md",
+    "Lore/Gods of Light/Abadar.md",
+    "Lore/Gods of Light/Iomedae.md",
+    "Lore/Gods of Night.md",
+    "Events/Timeline junk/Loháven is united.md",
+    "Events/Timeline junk/Loháven civil war.md",
+    "Events/Timeline junk/Celebros unification war.md",
+    "Events/Timeline junk/Iomedae travels the world.md",
+    "Map/Map.md",
     "Images/MayorEdwin.jpeg",
     "Characters",
     "Images/TheRedBaron.jpeg",
@@ -185,14 +190,9 @@
     "Images/smallcrest.jpg.crdownload",
     "Images/river_journey.jpg",
     "Images/river_journey.jpg.crdownload",
-    "Images/RedDay.png",
-    "Images/TheMaw.jpg",
-    "Images/YellowfieldLandscape.jpg",
     "Images/YellowfieldLandscape.jfif",
     "Images/YellowfieldLandscape.jfif.crdownload",
     "Events/Campaign",
-    "Images/YangoraHex.png",
-    "Images/YellowfieldImage.jpg",
     "Map/leaflet_marker_data.csv",
     "Map/plugins/obsidian-leaflet-plugin/data.json",
     "Map/plugins/obsidian-leaflet-plugin",

@@ -1,1 +1,1 @@
-Alias for [[Rose]]
+Alias for [[Rose]]. Has a prosthetic right leg. His true name is a secret since he is wanted by powerful people. He associated himself with people afflicted by [[Udún]]'s influence and was therefore targeted by other nobles. He suspects that [[The New Dawn]] are part of the plots against him. Some of the people he helped formed an [[The Twillight Veil|organization]], which is based from [[Shallowport]] but also likely operates in [[Farshore Port]]. 

@@ -454,7 +454,7 @@
   "copyOnClick": false,
   "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
-  "configDirectory": "Map",
+  "configDirectory": null,
   "mapViewEnabled": true,
   "mapViewParameters": {},
   "enableDraw": true,

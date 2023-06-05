@@ -1,0 +1,2 @@
+![[TheNewDawnSymbol.jpg|250]]
+The New Dawn is a faction which is not associated with a specific deity but rather the force of [[Anor]] itself. They are a recognised official part of the church. They have grown radical and believe in exterminating everything with a connection to [[Udún]] and [[Calen]]. They are in some way connected to [[The Orlande Tragedy]] and [[Smallcrest encounter]] in conjunction with [[Colonizational Unit for National Tasks of Significance]]. 
