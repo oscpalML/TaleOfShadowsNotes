@@ -1,3 +1,6 @@
+---
+tags: [timeline, campaign, loháven, farshore_port]
+---
 <span  
 class='ob-timelines'  
 data-date='1344-01-19'  
@@ -45,5 +48,5 @@ Ylladin Painter, var guyen som slaktade på the red day. The dale är ett områd
 ### Djupa Hålet
 After watching the announcement, the party visits [[Janne Järntand]] to take up his quest of clearing out the mine [[Djupa Hålet]]. It turns out that he has taken on a commission which requires a lot of sun ore and he has misquoted the price. The party travels to the mine and clears it out, nearly losing Nazromir to the final monster, a horrible amalgamation of bones and darkness. They make their way back to Janne and happily accept a +1 Full Plate as a reward. 
 
-### Festival
-The party takes part of the festivites, proving themselves moderately adept at many of the games. They are invited to a gathering for prayer, called [[Luminous Devotion]], at the [[Farshore Port#Union Church|Union Church]]. 
+### Festival 
+(21:e) The party takes part of the festivites, proving themselves moderately adept at many of the games. They are invited to a gathering for prayer, called [[Luminous Devotion]], at the [[Farshore Port#Union Church|Union Church]]. 

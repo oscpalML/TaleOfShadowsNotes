@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign/Intrigues in Farshore Port.md",
+                "file": "Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Campaign/Intrigues in Farshore Port.md",
+                "file": "Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Campaign/Intrigues in Farshore Port.md",
+                "file": "Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Campaign/Intrigues in Farshore Port.md"
+                "file": "Timeline.md"
               }
             }
           }
@@ -151,8 +151,17 @@
   },
   "active": "0bc9494f0985de71",
   "lastOpenFiles": [
-    "The Dale.md",
+    "Events/Campaign/Session 4.md",
     "Events/Campaign/Intrigues in Farshore Port.md",
+    "Timeline.md",
+    "Story/Nazromir/Accounts of the Orlande tragedy.md",
+    "Story/Nazromir/Gust and Nazromir's mission.md",
+    "Story/Nazromir/Mysterious Divine Language.md",
+    "Lore/Gods of Light/Abadar.md",
+    "Events/Campaign/Return to Yellowfield.md",
+    "Events/Campaign/Smallcrest encounter.md",
+    "Events/Campaign/Journey to Smallcrest.md",
+    "The Dale.md",
     "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
     "CrusadePriest.png.md",
     "Factions/Major/The New Dawn.md",
@@ -169,19 +178,10 @@
     "Images/TheGreatCrack.png",
     "Images/RedCourtyard.png",
     "Images/Union Church.jpg",
-    "Events/Campaign/Return to Yellowfield.md",
     "Lore/Gods of Light/Sarenrae.md",
     "Lore/Gods of Light.md",
     "Lore/Gods of Light/Erastil.md",
     "Places/Loháven/Abadae.md",
-    "Lore/Gods of Light/Abadar.md",
-    "Lore/Gods of Light/Iomedae.md",
-    "Lore/Gods of Night.md",
-    "Events/Timeline junk/Loháven is united.md",
-    "Events/Timeline junk/Loháven civil war.md",
-    "Events/Timeline junk/Celebros unification war.md",
-    "Events/Timeline junk/Iomedae travels the world.md",
-    "Map/Map.md",
     "Images/MayorEdwin.jpeg",
     "Characters",
     "Images/TheRedBaron.jpeg",
