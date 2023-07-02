@@ -23,7 +23,7 @@ After being shown the abode of [[Rose]] the party makes their way to [[Seafarer'
 
 In the middle of their investigation and trashing, the party are barged in upon by three members of [[The New Dawn]]. A fight ensues where Lennart and two of the attackers lose their lives. One of the clerics manages to escape. A mysterious figure who had been watching the encounter, [[Lucian]], steps out from the shadows and offers to take the party to his safehouse.
 
-Lucian reveals that he is a member of [[The Twillight Veil]], an organisation who aims to stop [[The New Dawn]]. The Twillight Veil aims to preserve balance, they resent the aim to have the world be only light. They where formed by people touched by [[Udún]]'s influence but grew to be more radical. Right now Lucian is investigating the connection between The New Dawn and [[Colonizational Unit for National Tasks of Significance]].  He knows that [[Alexander Starchild|Alexander]] and [[Botés Starchild]] are currently in Farshore Port. They are two highly ranked members of C.U.N.T.S and The New Dawn. Lucian knows the location of their estate.
+Lucian reveals that he is a member of [[The Twillight Veil]], an organisation who aims to stop [[The New Dawn]]. The Twillight Veil aims to preserve balance, they resent the aim to have the world be only light. They where formed by people touched by [[Udún]]'s influence but grew to be more radical. Right now Lucian is investigating the connection between The New Dawn and [[Colonizational Unit for National Tasks of Significance]].  He knows that [[Alexander Starchild|Alexander]] and [[Votés Starchild]] are currently in Farshore Port. They are two highly ranked members of C.U.N.T.S and The New Dawn. Lucian knows the location of their estate.
 
 Upon examining the plans for the city, Nazromir notices what he belives to be a secret room below the main floor of [[Farshore Port#Church of Sarenrea|Church of Sarenrae]], along with the fact that many prison cells and a torture room are located below [[Farshore Port#The Vigilant Watchtower|The Vigilant Watchtower]]. 
 
@@ -31,7 +31,7 @@ Upon examining the plans for the city, Nazromir notices what he belives to be a 
 The party heads out to the town to look for work. Upon examining the local notice board, they find multiple interesting assignments:
 * Stolen Shipment - By [[Janne Järntand]]. A shipment has been stolen by goblins outside of town, please recover it. 60gp reward. 
 * Abandoned Mine - By [[Janne Järntand]]. A mine which holds "sun-ore" has been overrun by skeletons, clear them out. 70 gp reward. 
-* Pest Problems - The [[Dragon's Den]] tavern has a problem with a sudden influx of bugs, exterminate the infestation. 20 gp reward.
+* Pest Problems - The [[Dragon's Den Tavern]] tavern has a problem with a sudden influx of bugs, exterminate the infestation. 20 gp reward.
 * Harpy Bounty - As always, the town guard pays 10 gp per delivered head of a harpy.
 * Announcement from Iomedar - The town awaits a procession from the capital, be there to behold it. 
 
@@ -50,3 +50,38 @@ After watching the announcement, the party visits [[Janne Järntand]] to take up
 
 ### Festival 
 (21:e) The party takes part of the festivites, proving themselves moderately adept at many of the games. They are invited to a gathering for prayer, called [[Luminous Devotion]], at the [[Farshore Port#Union Church|Union Church]]. 
+
+### Stolen shipment
+The party returns to [[Farshore Port#The Silver Serpent|The Silver Serpent]] in order to help [[Janne Järntand]] with the shipment that never arrived. The party sets of on the trail, accompanied by the rented horse Brante, and come to discover tracks where a heavy wagon was seemingly dragged of the path. The party discover a trap set by two goblin scouts and manage to salvage an explosive device. Later on, Nazromir uses his mage hand to drop the explosive into the middle of the goblin camp, taking the life of most of the goblins in one fell swoop. The goblin leader shows himself, a pyromancer riding on a giant rat, but after a duel with Nazromir he is felled. 
+
+On returning to Janne, he thanks the party and pays them an additional 10 gp, for a total of 70 gp, for delivering the shipment. Nazromir commissions Janne to build him a custom weapon, a tricky pick. The commission will take a week and cost 22 gp. 
+
+### Inn-Festation
+On the morning of the 23rd of January, the party makes their way to investigate the supposed bug-problem at the [[Farshore Port#Dragon's Den|Dragon's Den]]. After negotiating with the owner, they make their way to the cellar where they discover a Giant Stag Beetle. Through some miracle, Lucien manages to affect it with a sleep spell and so the party makes quick work of it. 
+
+### Searching for answers
+Through discreet inquiries, Nazromir manages to find out that [[Caleb Caustic]],  a priest of Iomadae, is a recruiter for [[The New Dawn]]. The party also learns that a mysterious man started to exude flies before exploding during the [[Luminous Devotion]].
+
+[[Rose]] tells the party that he has found out that [[Alexander Starchild|Alexander]] and [[Votés Starchild]] will be departing the boat headed for [[Shallowport]] on the 25th. Votés is the younger of the two twins and usually hangs out at [[The Sinnerman]], a brothel and bar. Alexander is staying at his house, but the location of said house is unknown. Alexander is the older and more responsible of the twins whilst Votés is reckless and impulsive. They are in their mid twenties, highly trained, and highly ranked member of [[Colonizational Unit for National Tasks of Significance|C.U.N.T.S]]. They were the members which greeted [[Mayor Edwin]] as he arrived in [[Smallcrest]]. 
+
+Nazromir overhears Rose talking to Lucien about unknown characters. [[Celine Nightshade]] is messing around. [[Oran]] is angry. Lucien has a curse. 
+
+Word has got out about the events in [[Yellowfield]]. The main rumor is that [[Crimson Claws]] murdered [[Mayor Edwin]] but some speak of the mission from which he never returned. 
+
+### Surveiling the Sinnerman
+The party makes their way to [[The Sinnerman]]. After Lucien sleeps the guard with a spell, they gain entry. The party manages to play a drinking game, deadman, with some of Votés's accomplices. 
+
+Demaine. (Unknown)
+
+### Quest for the Peak
+On the 24th, the party sets of to find Killian Peak. The party locates a manor which they believe to be Killian Peak. Robert breaks in and discovers that the house belongs to a Neville Bertsson and that the maid is named Fiona. The party returns fruitless in their finding only to discover that they broke in to the wrong mansion. The actual mansion is 1.5 days west of town. 
+
+On their way to the actual Killian Peak, they meet a party of knights escorting a wagon. Inside the wagon is Alexander, with short blonde hair. 
+
+The party finally locates the actual mansion, ontop a round sheer plateau. They get ontop of the roof and Nazromir manages to get inside a office. The office clearly used to contain a "sending-desk". Nazromir finds some books:
+
+* "[[The Case for a New Dawn]]" by [[Indra Hyllinger]]. The book is 200 years old.  
+* "Rise Up - In the aftermath of [[The Desecration]]" by G.D. 
+* One of the notes left on the floor is the following:
+![[357988487_998904371266034_6761550763181659316_n.jpg]]
+Indicating that what happened in [[Iomedar]] was connected to the Starchilds. Regardless the party realises that they must make their way to [[Blighthollow]]. 

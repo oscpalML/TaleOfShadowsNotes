@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bc9494f0985de71",
+            "id": "e4c7f3651b1a78c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "Events/Campaign/Intrigues in Farshore Port.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fecd80a8c47f8f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline.md",
+                "file": "Events/Campaign/Intrigues in Farshore Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline.md",
+                "file": "Events/Campaign/Intrigues in Farshore Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline.md"
+                "file": "Events/Campaign/Intrigues in Farshore Port.md"
               }
             }
           }
@@ -149,46 +162,45 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0bc9494f0985de71",
+  "active": "e4c7f3651b1a78c7",
   "lastOpenFiles": [
-    "Events/Campaign/Session 4.md",
+    "Events/Campaign/Session 5.md",
+    "Events/Timeline junk/The Desecration.md",
     "Events/Campaign/Intrigues in Farshore Port.md",
-    "Timeline.md",
-    "Story/Nazromir/Accounts of the Orlande tragedy.md",
-    "Story/Nazromir/Gust and Nazromir's mission.md",
-    "Story/Nazromir/Mysterious Divine Language.md",
-    "Lore/Gods of Light/Abadar.md",
-    "Events/Campaign/Return to Yellowfield.md",
-    "Events/Campaign/Smallcrest encounter.md",
-    "Events/Campaign/Journey to Smallcrest.md",
-    "The Dale.md",
+    "Characters/Mayor Edwin.md",
+    "Images/357988487_998904371266034_6761550763181659316_n.jpg",
+    "Votés Starchild.md",
     "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
+    "Timeline.md",
+    "Map/Map.md",
+    "Places/Ashenfell/Blighthollow.md",
+    "Places/Ashenfell/Ashenfell.md",
+    "Untitled.md",
+    "Events/Campaign/Return to Yellowfield.md",
+    "Events/Campaign/Arrival at Yellowfield.md",
+    "Places/Aranor/Aranor.md",
+    "Dragon's Den Tavern.md",
     "CrusadePriest.png.md",
-    "Factions/Major/The New Dawn.md",
-    "Rose.md",
-    "Nazromir.md",
-    "Characters/The Patron.md",
-    "The New Dawn.md",
-    "The Twillight Veil.md",
-    "The Twilligt Veil.md",
+    "Characters/Lady Isadora.md",
     "Characters/The Red Baron.md",
-    "Factions/Major/The Brightfangs.md",
+    "Places/Faction Specific/Serenity atoll.md",
+    "Places/Riddlebrooks.md",
+    "Places/The Silver Coast/Celebros, The Silver Coast.md",
+    "Places/The Silver Coast/Silveria.md",
+    "Places/Nólalote/Nólalóte.md",
+    "Places/Yinora/Kerranor.md",
+    "Places/Tir na Lir/Tir na Lir.md",
     "Images/stable-diffusion-xl_clipdrop-variants_clipdrop-enhance.jpeg",
     "Images/civilwar.jpg",
     "Images/TheGreatCrack.png",
     "Images/RedCourtyard.png",
     "Images/Union Church.jpg",
-    "Lore/Gods of Light/Sarenrae.md",
-    "Lore/Gods of Light.md",
-    "Lore/Gods of Light/Erastil.md",
-    "Places/Loháven/Abadae.md",
     "Images/MayorEdwin.jpeg",
     "Characters",
     "Images/TheRedBaron.jpeg",
     "Images/TheNewDawnSymbol.jpg",
     "Images/smallcrest.jpg",
     "Images/smallcrest.jpg.crdownload",
-    "Images/river_journey.jpg",
     "Images/river_journey.jpg.crdownload",
     "Images/YellowfieldLandscape.jfif",
     "Images/YellowfieldLandscape.jfif.crdownload",

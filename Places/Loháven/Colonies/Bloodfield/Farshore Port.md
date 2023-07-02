@@ -33,3 +33,9 @@ A blacksmith's workshop run by [[Janne Järntand]].
 ### Seafarer's Rest
 An affordable tavern. 
 
+### Dragon's Den
+Tavern owned by Hannes. For a more refined clientele. 
+
+### Arcane Attic
+Drivs av Hugo. Köpte feather fall, hydraulic push, summon elemental (10gp). 
+
