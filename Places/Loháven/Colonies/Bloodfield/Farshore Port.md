@@ -39,3 +39,7 @@ Tavern owned by Hannes. For a more refined clientele.
 ### Arcane Attic
 Drivs av Hugo. Köpte feather fall, hydraulic push, summon elemental (10gp). 
 
+### The Sinnerman
+Brothel. Frequented by [[Votés Starchild]].
+
+
