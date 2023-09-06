@@ -72,16 +72,3 @@ Word has got out about the events in [[Yellowfield]]. The main rumor is that [[C
 The party makes their way to [[The Sinnerman]]. After Lucien sleeps the guard with a spell, they gain entry. The party manages to play a drinking game, deadman, with some of Votés's accomplices. 
 
 Demaine. (Unknown)
-
-### Quest for the Peak
-On the 24th, the party sets of to find Killian Peak. The party locates a manor which they believe to be Killian Peak. Robert breaks in and discovers that the house belongs to a Neville Bertsson and that the maid is named Fiona. The party returns fruitless in their finding only to discover that they broke in to the wrong mansion. The actual mansion is 1.5 days west of town. 
-
-On their way to the actual Killian Peak, they meet a party of knights escorting a wagon. Inside the wagon is Alexander, with short blonde hair. 
-
-The party finally locates the actual mansion, ontop a round sheer plateau. They get ontop of the roof and Nazromir manages to get inside a office. The office clearly used to contain a "sending-desk". Nazromir finds some books:
-
-* "[[The Case for a New Dawn]]" by [[Indra Hyllinger]]. The book is 200 years old.  
-* "Rise Up - In the aftermath of [[The Desecration]]" by G.D. 
-* One of the notes left on the floor is the following:
-![[357988487_998904371266034_6761550763181659316_n.jpg]]
-Indicating that what happened in [[Iomedar]] was connected to the Starchilds. Regardless the party realises that they must make their way to [[Blighthollow]]. 

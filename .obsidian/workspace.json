@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "ca9523af9fd16433",
+        "id": "527ce7b20cf55a5e",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c7f3651b1a78c7",
+            "id": "118b53e28daabede",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign/Intrigues in Farshore Port.md",
+                "file": "Events/Campaign/Shady dealings in Blighthollow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29946aa682cf1703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Campaign/Session 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b53fd6d5c1317ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Campaign/Intrigues in Farshore Port.md",
+                "file": "Events/Campaign/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Campaign/Intrigues in Farshore Port.md",
+                "file": "Events/Campaign/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Campaign/Intrigues in Farshore Port.md"
+                "file": "Events/Campaign/Session 6.md"
               }
             }
           }
@@ -149,44 +176,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e4c7f3651b1a78c7",
+  "active": "29946aa682cf1703",
   "lastOpenFiles": [
-    "Events/Campaign/Session 5.md",
-    "Events/Campaign/Intrigues in Farshore Port.md",
-    "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
-    "Events/Timeline junk/The Desecration.md",
-    "Characters/Mayor Edwin.md",
-    "Images/357988487_998904371266034_6761550763181659316_n.jpg",
-    "Votés Starchild.md",
+    "Events/Campaign/Shady dealings in Blighthollow.md",
+    "Events/Campaign/Session 6.md",
+    "Events/Campaign/Journey to Blighthollow.md",
+    "Scorn.md",
+    "Scorn_human.jpeg",
+    "Scorn_dragon.png",
     "Timeline.md",
-    "Map/Map.md",
+    "Images/blighthollow.jpg",
     "Places/Ashenfell/Blighthollow.md",
+    "Cedric Marrow.md",
+    "Images/sailing_ship.jpg",
+    "Events/Campaign/Escapades at Killian Peak.md",
+    "Events/Campaign/Journey to Smallcrest.md",
+    "Events/Campaign/Intrigues in Farshore Port.md",
+    "Images/killian_peak.png",
+    "Places/Loháven/Iomedar.md",
+    "Map/Map.md",
+    "Places/Ashenfell/The Maw.md",
+    "Events/Timeline junk/Loháven is united.md",
+    "Events/Timeline junk/Loháven civil war.md",
+    "Events/Campaign/Smallcrest encounter.md",
     "Places/Ashenfell/Ashenfell.md",
-    "Untitled.md",
-    "Events/Campaign/Return to Yellowfield.md",
-    "Events/Campaign/Arrival at Yellowfield.md",
-    "Places/Aranor/Aranor.md",
-    "Dragon's Den Tavern.md",
-    "CrusadePriest.png.md",
-    "Characters/Lady Isadora.md",
-    "Characters/The Red Baron.md",
+    "Story/Nazromir/Gust and Nazromir's mission.md",
+    "Story/Nazromir/Accounts of the Orlande tragedy.md",
     "Places/Faction Specific/Serenity atoll.md",
-    "Places/Riddlebrooks.md",
-    "Places/The Silver Coast/Celebros, The Silver Coast.md",
-    "Places/The Silver Coast/Silveria.md",
-    "Places/Nólalote/Nólalóte.md",
-    "Places/Yinora/Kerranor.md",
-    "Places/Tir na Lir/Tir na Lir.md",
-    "Images/stable-diffusion-xl_clipdrop-variants_clipdrop-enhance.jpeg",
-    "Images/civilwar.jpg",
-    "Images/TheGreatCrack.png",
-    "Images/RedCourtyard.png",
-    "Images/Union Church.jpg",
-    "Images/MayorEdwin.jpeg",
+    "Places/Tir na Lir/Eversun.md",
+    "Places/Loháven/Refuge.md",
+    "Places/Loháven/Loháven.md",
+    "Places/Loháven/Abadae.md",
+    "Places/Dur'Gurn/Baal.md",
+    "Images/DragonScroll.webp",
+    "Images/FarshorePortImage.jpg",
+    "Images/Desecration.jpeg",
+    "Images/Colonisation.png",
+    "Images/Banquet.jpg",
     "Characters",
-    "Images/TheRedBaron.jpeg",
-    "Images/TheNewDawnSymbol.jpg",
-    "Images/smallcrest.jpg",
     "Images/smallcrest.jpg.crdownload",
     "Images/river_journey.jpg.crdownload",
     "Images/YellowfieldLandscape.jfif",

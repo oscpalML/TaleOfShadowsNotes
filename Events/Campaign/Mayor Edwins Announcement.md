@@ -10,7 +10,7 @@ data-img = 'Images/Banquet.jpg'
 data-type='range'>  
 Invited on behalf of Rose, Nazromir and Robert attend the noble gathering.
 </span>
-[[Mayor Edwin]] announces that he has a new method for discovering magic items. He has gathered all the nobles in an attempt to demonstrate his technique, in order to impress them and especially [[The Red Baron]]. During the evening, Nazromir learns about [[The Red Day]], and [[Amaham]]'s [[Holy Crusade]]. 
+[[Mayor Edwin]] announces that he has a new method for discovering magic items. He has gathered all the nobles in an attempt to demonstrate his technique, in order to impress them, especially [[The Red Baron]]. During the evening, Nazromir learns about [[The Red Day]], and [[Amaham]]'s [[Holy Crusade]]. 
 
 Some of the guests in attendance where:
 - [[Lady Rosalind]]
