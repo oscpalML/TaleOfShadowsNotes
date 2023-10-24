@@ -1,0 +1,1 @@
+A gang, primarily based out of [[Blighthollow]]. They are lead by the Half-Dragon [[Vissariss]].

@@ -31,3 +31,24 @@ The party searches the estate, finding many interesting belongings of Alexander.
 In the guard quarter, the party finds a wanted poser of [[Rayleigh (Jirarn)]], wanted for murder.  
 
 The party departs the estate, with an ominous feeling that the intrigues at play may be deeper than they first suspected.
+
+Starchild Family Tree
+1. **Great-Grandparents (Paternal Side):** Tobias Starchild (human) & Isolde Aetherwisp (elf).
+    
+    - Their offspring would be half-elves, 50% human and 50% elf.
+    
+2. **Great-Grandparents (Maternal Side):** Lord Oswin Brightblade (human) & Lady Ysmir Brightblade (half-elf).
+    
+    - Their offspring would be 75% human and 25% elf.
+    
+3. **Grandparents (Paternal Side):** Jebediah Starchild (half-elf) & Elara Brightblade (75% human, 25% elf).
+    
+    - Their offspring would be 62.5% human and 37.5% elf.
+    
+4. **Grandparents (Maternal Side):** A dwarf named Grom Forgeheart & Callista Brightblade (75% human, 25% elf).
+    
+    - Their offspring would be 37.5% human, 12.5% elf, and 50% dwarf.
+    
+5. **Parents:** Goliander Starchild (62.5% human, 37.5% elf) & Vera-li Starchild (37.5% human, 12.5% elf, 50% dwarf).
+    
+    - Their offspring would be 50% human, 25% elf, and 25% dwarf.

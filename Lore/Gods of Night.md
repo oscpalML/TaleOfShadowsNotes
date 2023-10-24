@@ -6,7 +6,7 @@
 
 [[Calistria]] is the goddess of lust and revenge
 
-[[Achaekek]] takes a middle position between [[Calistria]], the goddess of revenge if not necessarily murder, and [[Norgorber]] who is the god of all murder. He is the god of assassins.
+[[Achaekek]] takes a middle position between [[Calistria]], the goddess of revenge if not necessarily murder, and [[Norgorber]] who is the god of all murder. He is the god of assassins. He is a mantis.
 
 Imprisoned since the Age of Creation, the god [[Rovagug]] seeks only to destroy creation and the other gods.
 

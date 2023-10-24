@@ -12,3 +12,8 @@ An alley where people looking for work gather.
 
 ### Deepshiv Grotto
 An especially shifty part of town, one passes through a waterfall on entering it. 
+
+### Hagfoot Bridge
+
+### The Necrodancer
+The best rave club in Blighthollow. A marble palace clad in spidernets.
