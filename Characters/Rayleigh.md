@@ -1,0 +1,1 @@
+A hobgoblin, friends with [[Bom]]. Possessed the cursed ring which [[Nazromir]] cut from his body.

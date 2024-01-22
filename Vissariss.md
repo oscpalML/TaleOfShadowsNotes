@@ -1,1 +1,0 @@
-The half black dragon leader of [[The Vipers]]. Unhinged and reckless. Is capable of shifting into a dragon-form. 

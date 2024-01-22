@@ -1,0 +1,1 @@
+The highest authority within [[Bloodfield|The Bloodfields]]. Attended [[Mayor Edwins Announcement]].

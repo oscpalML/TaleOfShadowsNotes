@@ -3,7 +3,7 @@ tags: [loháven]
 ---
 #EVENT 
 
-Nazromir anländer till [[Yellowfield]] i letan efter en mantel som ska vara prydd med [[Gust]]'s man. Bom har manteln, och [[Nazromir]] stalkar honom och [[Rayleigh (Jirarn)]] när de gör inbrott i ett övre rum på [[Yellowfield#The Flying Stallion Bar Housing]] för att busa med [[Blue Fang Gang]]. Där inne lämnar de en bajsmacka som massäck i deras ryggsäckar och hittar en lapp där det står att de ska attackera/kidnappa nån nobelman i [[Yellowfield#The Barge Bar]]. 
+Nazromir anländer till [[Yellowfield]] i letan efter en mantel som ska vara prydd med [[Gust]]'s man. Bom har manteln, och [[Nazromir]] stalkar honom och [[Rayleigh]] när de gör inbrott i ett övre rum på [[Yellowfield#The Flying Stallion Bar Housing]] för att busa med [[Blue Fang Gang]]. Där inne lämnar de en bajsmacka som massäck i deras ryggsäckar och hittar en lapp där det står att de ska attackera/kidnappa nån nobelman i [[Yellowfield#The Barge Bar]]. 
 
 [[Nazromir]] konfronterar dem i gränden utanför, och skrämmer iväg dem. De sticker till The Barge. 
 
@@ -11,9 +11,9 @@ Nazromir anländer till [[Yellowfield]] i letan efter en mantel som ska vara pry
 
 Kvällen kommer, och [[Robert Sköld]] glider in på [[Yellowfield#The Barge Bar]]. Där sätter han sig i hörnet och blir uppvaktad av servitör [[Bob the Balchemist]]. Han får en speciell liten godis, som Robert antar är en välkomstsnax. Godisen gör att han hör i huvudet "Gå ut från baren. En dvärg kommer att leda dig till mötet"
 
-Han leds till en gränd, och får pengarna. Då försöker [[Blue Fang Gang]] grabbarna ta tag i armen på [[Robert Sköld]]. Han springer, och Bom och [[Rayleigh (Jirarn)]] ser detta och kapar en Lizard på hälften med en crit. Den andra flyr. Allihopa (inkl [[Nazromir]]) går mot The Barge, [[Robert Sköld]] typ halvt in custody av [[Rayleigh (Jirarn)]]. 
+Han leds till en gränd, och får pengarna. Då försöker [[Blue Fang Gang]] grabbarna ta tag i armen på [[Robert Sköld]]. Han springer, och Bom och [[Rayleigh]] ser detta och kapar en Lizard på hälften med en crit. Den andra flyr. Allihopa (inkl [[Nazromir]]) går mot The Barge, [[Robert Sköld]] typ halvt in custody av [[Rayleigh]]. 
 
-[[Blue Fang Gang]] anländer med en stadsvakt. De anklagar mördare [[Rayleigh (Jirarn)]] för att ha mördat, och alla andra som accomplices. Baren får en 100gp fine som [[Bob the Balchemist]] måste betala av eftersom han upprepat associerat sig med att jobba på baren, och att ha lett [[Robert Sköld]] ut till bakhållet. [[Rayleigh (Jirarn)]] hamnar i häktet. [[Bob the Balchemist]] jobbar i smedjan istället för att det tjänar något bättre. [[Nazromir]] och [[Robert Sköld]] letar i staden efter att ha plockat upp ett brev från Lord Rose. De hittar det andra brevet, där de blir inbjudna till mayor edwins get-together. De gör även ett litet quest, och dödar en fungus leshy under kajen. 
+[[Blue Fang Gang]] anländer med en stadsvakt. De anklagar mördare [[Rayleigh]] för att ha mördat, och alla andra som accomplices. Baren får en 100gp fine som [[Bob the Balchemist]] måste betala av eftersom han upprepat associerat sig med att jobba på baren, och att ha lett [[Robert Sköld]] ut till bakhållet. [[Rayleigh]] hamnar i häktet. [[Bob the Balchemist]] jobbar i smedjan istället för att det tjänar något bättre. [[Nazromir]] och [[Robert Sköld]] letar i staden efter att ha plockat upp ett brev från Lord Rose. De hittar det andra brevet, där de blir inbjudna till mayor edwins get-together. De gör även ett litet quest, och dödar en fungus leshy under kajen. 
 
 Jirarn och Hampus går hem för kvällen
 

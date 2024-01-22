@@ -1,0 +1,1 @@
+Highguard in charge of protecting [[Amaham]], was seen slaughtering the people from [[The Dale]], during the events of [[The Red Day]], after which he is also known as [[The Painter]].

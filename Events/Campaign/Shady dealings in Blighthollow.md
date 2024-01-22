@@ -1,5 +1,7 @@
 ---
-tags: [timeline, campaign]
+tags:
+  - timeline
+  - campaign
 ---
 <span  
 class='ob-timelines'  
@@ -59,7 +61,7 @@ The churchly person bears a resemblance to the person in the painting in the Sta
 
 The party asks about the other factions on the island and learn about [[The Dark Dagger Veils]]. They are a more traditional hitman-group, one which despises the recklessness and unprofessional [[The Vipers]]. The party also learns about [[The Hooded Lanterns]], the faction to which [[Borial]] belonged, a faction which tries to be good and provide people with a second chance. 
 #### The Search for Scorn
-The party sets out to find [[Scorn]]. They encounter a mysterious soothsayer with four arms and ashy grey lifeless skin. The mans malformations reminds of those caused by [[Udún]]'s influence. [[Nazromir]] trades [[Rayleigh (Jirarn)]]'s finger for information about Scorn. The soothsayer speaks about Scorn being bound and soon to arrive to the harbor. 
+The party sets out to find [[Scorn]]. They encounter a mysterious soothsayer with four arms and ashy grey lifeless skin. The mans malformations reminds of those caused by [[Udún]]'s influence. [[Nazromir]] trades [[Rayleigh]]'s finger for information about Scorn. The soothsayer speaks about Scorn being bound and soon to arrive to the harbor. 
 
 In the harbor, the giant church-owned man-o-war [[Anastara]] arrives to port. [[Aurelia]], [[Lucian]]'s twin sister, is at the helm. Inside is [[Scorn]], bound by radiant manacles. Scorn whispers to a shadow apparated by [[Lucian]] to meet him at [[Blighthollow#The Necrodancer|The Necrodancer]]. [[Scorn]] is lead out in chains and ordered to lead towards "them". [[Aurelia]] converses with local pirate kings and alleges that the ship is only there for a day. 
 
@@ -87,4 +89,4 @@ Scorn travels to [[Iomedar]]. He intends to spy. However, after some weeks with 
 The undead ogre bouncer comes down, asking for "The Slayer of Visarys". The one asking is [[Kraxia]], the lieutenant which [[Sarah Steelheart|Sarah]] tried to frame. Turns out the fake plans where real and [[Kraxia]] wants to kill [[Vissariss]]. [[Kraxia]] tells the party about a temple to [[Achaekek]] south east of town which serves as [[The Vipers]] headquarters. 
 
 #### Infiltrating the Temple
-On the 6th, the party heads for the temple where [[Kraxia]] presses the symbol of a bat to enter the secret passagway.
+On the 6th, the party heads for the temple where [[Kraxia]] presses the symbol of a bat to enter the secret passagway. 

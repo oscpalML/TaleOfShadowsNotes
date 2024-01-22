@@ -2,4 +2,4 @@ The Crimson Claws has a violent history on the [[Bloodfield|Bloodfields]], in fa
 
 It is built up of Hobgoblins, and founded by the tactical genious [[Rayleigh Crimson Claw]]. His name was feared on the plains, and his conquests legendary. The Crimson Claws reputation is now slightly deminished, as they too struggle to keep their culture intact in the face of progressing urbanisation.
 
-The Clan has 50 members, but rarely more than 10 can be seen in the same city at once. In [[Yellowfield]], there are 10 Claws, and [[Rayleigh (Jirarn)]]
+The Clan has 50 members, but rarely more than 10 can be seen in the same city at once. In [[Yellowfield]], there are 10 Claws, and [[Rayleigh]]

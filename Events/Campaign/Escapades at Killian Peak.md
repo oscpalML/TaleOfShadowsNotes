@@ -28,7 +28,7 @@ Upon attempting to sneak away from the manor, [[Lucian]] accidentally makes a so
 
 The party searches the estate, finding many interesting belongings of Alexander. Nazromir grabs a set of his extravagant clothes. From Alexander's chambers, they also grab a locked and intricate box. Upon investigating the dining hall, they locate hidden staircase behind the portrait of holy knight/paladin. After surviving a deadly trap on their way down the stairs, the party discovers a cult meeting room with a sacrificial altar. The party grabs a set of masks and white robes with golden details. They also grab a sacrificial dagger, a bracelet made of raven feathers and a blue precious stone. Nazromir contemplates on the nature of the room and ritual sacrifices: Mainly evil deities demand sentient sacrifices. There are of course exceptions such as if a good god wants to interrogate the soul of a evil-doer. Some deities return power as a reward for sacrifices. [[Pharasma]] is a god with some raven iconography, reminiscent of the rooms décor.
 
-In the guard quarter, the party finds a wanted poser of [[Rayleigh (Jirarn)]], wanted for murder.  
+In the guard quarter, the party finds a wanted poser of [[Rayleigh]], wanted for murder.  
 
 The party departs the estate, with an ominous feeling that the intrigues at play may be deeper than they first suspected.
 

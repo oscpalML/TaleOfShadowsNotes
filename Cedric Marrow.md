@@ -1,1 +1,0 @@
-Also known as "The Eel". Cedric is a human man with a scruffy beard and a durag. He is the captain of [[The Bounty's Breath]]
