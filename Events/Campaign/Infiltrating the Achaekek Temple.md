@@ -1,4 +1,4 @@
-#campaign #timeline 
+	#campaign #timeline 
 <span  
 class='ob-timelines'  
 data-date='1344-02-06'  
@@ -27,3 +27,24 @@ The key leads to a [[Achaekek Temple#Sacrificial Offering Room|sacrificial offer
 The party is then lead to a meditation-room. The room is circular and sound-isolated by heavy drapes. Smaller chambers surround the main room. Kraxia attempts to run ahead to covertly enter the code but Nazromir keeps up with him, noting that the code is Moon-Mantis-Sword-Skull-Heart. Kraxia shares that there is a giant spirit who lends the strength of [[Achaekek]] to [[Vissariss]].  The party decides that Kraxia has served his purpose and execute him. Nazromir applies the poison Kraxis was carrying to his brightfang. 
 
 The party, with the help of [[Scorn]], slay the spirit and navigate their way through further puzzles. 
+
+The party comes upon a large circular stone gate. It reads: "Woven in twine, to you I dedicate this shrine" in draconic. Nazromir recalls no other draconc presence other than [[Vissariss]] on [[Blighthollow]]. Scorn forces the door open with a huge show of strength:
+>_Scorn puts his hands down and flicker his fingers in a pattern. The cave walls drippling water begins to coalesce into a stream by his feet and slithers its way across the floor and up the circular door. It makes its way into fine cracks, into the magical runes, and between the door and the frame that holds it. Scorn begins to talk, but no sound leaves his mouth. The sound of the world instead turns muffled, as if underwater, though you can see Scorn talking still. When you try to make a sound yourself, it is as if it covers if fear and utter submission before his non-sound. He continues, more fiercely, almost as if he is in an intense verbal argument with the wall before him. Suddenly, a large crack shatters the door! Pieces of ice fly through the air, and jets of steam burst from the cracks and fills the room with a subtle mist._
+
+Behind the gate waits a treasure room containing six pedestals with artifacts and a giant goblet overborn by a mantis. [[Bob the Balchemist]] decides to take a fan, medallion and wand from the room, even after [[Nazromir]] warns him about the awaiting curse. The party moves on and finds records of carried our assassination missions, finding that a mission to kill Lennart-Herbert in [[Hallyn]] was cancelled at the behest of [[Vissariss]].
+
+After breaking down a second circular gate, the party finds the prison cell of [[Vissariss]] sister [[Syrennis]]. [[Syrennis]] is a capable alchemist manufacturing poisons for [[The Vipers]], who also deeply cares for her sister.  The party attempt but are unable to convice her to join their escape, knowing that [[Vissariss]] is soon to return.
+
+Upon attempting to escape, the party are ambushed by [[Vissariss]] and a following of mantises. [[Nazromir]] cleaves through two mantises just as [[Lucian]] is temporarily consumed by his dark curse. [[Lucian]] manages to control the emanating dark energies to slay all but one of the remaining mantises, who is then finished of by [[Bob the Balchemist]] with a stone from his sling. Meanwhile [[Scorn]] has been dueling [[Vissariss]] and manages to force her into submission using his raw physical power.
+
+In an attempt to beg for her own life, [[Vissariss]] shares the following information:
+* [[Golliander Starchild]] comands a elite-fore of fantatics whom call themselves [[The Dawn Blades]]. They posses an artifact called a [[Piece of Divinity]] said to be able to dispel any curse completely.
+* [[Vissariss]] and [[Syrennis]] are cursed not to posses any breath weapons.
+* [[Golliander Starchild]] has been bargaining with [[Vissariss]], offering to remove the curse upon her and her sister. In exchange [[Vissariss]] used the divine poison produced by the goblet in her horde to assassinate [[Amaham]].
+* Since the assassination of [[Amaham]] "failed", [[Golliander Starchild]] has refused to provide the offered reward.
+* [[Golliander Starchild]] is the man in the shadows who controls [[The New Dawn]]. He holds no official position but is in control none-the-less. [[The New Dawn]] aims to create a new champion of light to take the place of priest-king come god-king [[Amaham]].  [[Vissariss]] suggests that she thinks [[Golliander Starchild]] himself seeks to be this champion but that this is likely not openly known even withing [[The New Dawn]]. Lower ranking members of [[The New Dawn]] hailed [[Amaham]] as the new champion of light but were quickly corrected by senior cult members.
+* [[The Red Day|The assassination]] needed to take place specifically when diplomats from [[The Dale]] were visiting.
+* [[Vissariss]] assumed the party to be sent as revenge for kidnapping [[Alexander Starchild]] and not fulfilling their end of the bargain.
+* [[Borial]] is alive and in the dungeons.
+* [[The Dawn Blades]] have high quarter in [[Iomedar]]. [[Golliander Starchild]] does not know that there is a teleportation circle heading to [[Iomedar]] located beneth the Achaekek temple.
+The party notices [[Alexander Starchild]] tied up in the corner of the main room. [[Nazromir]] prays to [[Sarenrae]] for guidance on whether or not to trust [[Alexander Starchild]] and receives a warm calming sensation in response.

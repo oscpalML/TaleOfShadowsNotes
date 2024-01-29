@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0e026cd5b3fa084",
+            "id": "d25a90d837a2d295",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "096da23689db8518",
+            "id": "51e8d604ebdd7221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "Events/Campaign/Shady dealings in Blighthollow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9312521e721264a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Campaign/Journey to Blighthollow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,17 +185,26 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a0e026cd5b3fa084",
+  "active": "d25a90d837a2d295",
   "lastOpenFiles": [
+    "Characters/Amaham.md",
+    "Events/Campaign/Infiltrating the Achaekek Temple.md",
+    "Untitled.md",
+    "Events/Campaign/Shady dealings in Blighthollow.md",
     "Events/Campaign/Journey to Blighthollow.md",
+    "Events/Campaign/Arrival at Yellowfield.md",
+    "Events/Campaign/Mayor Edwins Announcement.md",
+    "Events/Campaign/Session 9.md",
+    "Events/Campaign/Journey to Smallcrest.md",
+    "Places/Loháven/Colonies/Bloodfield/Yellowfield.md",
+    "Places/Dur'Gurn/Dur'Gurn.md",
+    "Timeline.md",
+    "Map/Map.md",
+    "Places/Nólalote/Nólalóte.md",
     "Events/Campaign/Escapades at Killian Peak.md",
     "Events/Campaign/Return to Yellowfield.md",
-    "Events/Campaign/Infiltrating the Achaekek Temple.md",
-    "Events/Campaign/Shady dealings in Blighthollow.md",
     "Places/Ashenfell/Achaekek Temple.md",
-    "Timeline.md",
     "Lucian.md",
-    "Events/Campaign/Session 9.md",
     "Images/achaekek_sacrificial_room.png",
     "Events/Campaign/Intrigues in Farshore Port.md",
     "Factions/Major/The Brightfangs.md",
@@ -194,15 +216,6 @@
     "Places/Dur'Gurn/Baal.md",
     "Images/the_whispering_hall.png",
     "Lore/Gods of Night/Achaekek.md",
-    "Places/Mid-Sea Islands, Kailani/Mid-sea islands, Kailani.md",
-    "Map/Map.md",
-    "Story/Nazromir/Accounts of the Orlande tragedy.md",
-    "Story/Nazromir/Gust and Nazromir's mission.md",
-    "Story/Nazromir/Mysterious Divine Language.md",
-    "Lore/Poem.md",
-    "Lore/Gods of Night/Zon-Kuthon.md",
-    "Characters/Rose.md",
-    "Factions/Minor/The Twillight Veil.md",
     "Images/Scorn_human.jpeg",
     "Images/Scorn_dragon.png",
     "Images/blighthollow.jpg",
