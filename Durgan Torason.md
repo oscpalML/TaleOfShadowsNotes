@@ -1,0 +1,1 @@
+Träffade Thorag östra kusten durgurn. De kastade stenar för att se vem som var starkast. Oklart vem som vann. Resultatet är stone-tossed islands.

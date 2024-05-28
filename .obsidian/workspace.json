@@ -8,12 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d25a90d837a2d295",
+            "id": "5146ba5ddbb828da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign/Infiltrating the Achaekek Temple.md",
+                "file": "Events/Campaign/Session 14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e11bf767a65723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Campaign/Session 12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dc80f3663d29bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Campaign/Shadowed Shores.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ed77e37578e5ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/The Silver Coast/Celebros, The Silver Coast.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,20 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign/Shady dealings in Blighthollow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9312521e721264a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Campaign/Journey to Blighthollow.md",
+                "file": "Events/Campaign/Shadowed Shores.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Campaign/Infiltrating the Achaekek Temple.md",
+                "file": "Events/Campaign/Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Campaign/Infiltrating the Achaekek Temple.md",
+                "file": "Events/Campaign/Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Campaign/Infiltrating the Achaekek Temple.md"
+                "file": "Events/Campaign/Session 14.md"
               }
             }
           },
@@ -162,7 +188,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -185,44 +213,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d25a90d837a2d295",
+  "active": "5146ba5ddbb828da",
   "lastOpenFiles": [
-    "Characters/Amaham.md",
+    "Events/Campaign/Session 13.md",
+    "Events/Campaign/Session 14.md",
+    "Durgan Torason.md",
+    "Events/Campaign/Session 12.md",
+    "Places/Dur'Gurn/Titan’s End.md",
     "Events/Campaign/Infiltrating the Achaekek Temple.md",
-    "Untitled.md",
-    "Events/Campaign/Shady dealings in Blighthollow.md",
-    "Events/Campaign/Journey to Blighthollow.md",
-    "Events/Campaign/Arrival at Yellowfield.md",
-    "Events/Campaign/Mayor Edwins Announcement.md",
-    "Events/Campaign/Session 9.md",
-    "Events/Campaign/Journey to Smallcrest.md",
-    "Places/Loháven/Colonies/Bloodfield/Yellowfield.md",
-    "Places/Dur'Gurn/Dur'Gurn.md",
-    "Timeline.md",
-    "Map/Map.md",
-    "Places/Nólalote/Nólalóte.md",
-    "Events/Campaign/Escapades at Killian Peak.md",
-    "Events/Campaign/Return to Yellowfield.md",
-    "Places/Ashenfell/Achaekek Temple.md",
-    "Lucian.md",
-    "Images/achaekek_sacrificial_room.png",
-    "Events/Campaign/Intrigues in Farshore Port.md",
-    "Factions/Major/The Brightfangs.md",
-    "Events/Timeline junk/The Reformation.md",
-    "Images/achaekek_statue.png",
-    "Lore/Gods of Night.md",
-    "Places/The Silver Coast/Celebros, The Silver Coast.md",
-    "Places/The Silver Coast/Silveria.md",
     "Places/Dur'Gurn/Baal.md",
+    "Events/Campaign/Shadowed Shores.md",
+    "Map/Map.md",
+    "Lore/Gods of Night/Ghlaunder.md",
+    "Places/Yinora/Kerranor.md",
+    "Events/Campaign/Setting sail.md",
+    "Places/Dur'Gurn/Dur'Gurn.md",
+    "Places/Dur'Gurn/Behl’Gurn.md",
+    "Places/The Silver Coast/Celebros, The Silver Coast.md",
+    "Factions/Minor/The Night Wardens.md",
+    "Places/The Silver Coast/Silveria.md",
+    "Timeline.md",
+    "Places/Nólalote/Nólalóte.md",
+    "Places/Mid-Sea Islands, Kailani/Mid-sea islands, Kailani.md",
+    "Characters/Lady Rosalind.md",
+    "Events/Campaign/Smallcrest encounter.md",
+    "Events/Campaign/Journey to Smallcrest.md",
+    "Events/Campaign/Mayor Edwins Announcement.md",
+    "Events/Campaign/Arrival at Yellowfield.md",
+    "Places/Tir na Lir/Tir na Lir.md",
+    "Images/ghostlight2.jpg",
+    "Images/EmeraldMarauder.png",
+    "Images/achaekek_sacrificial_room.png",
+    "Images/achaekek_statue.png",
     "Images/the_whispering_hall.png",
-    "Lore/Gods of Night/Achaekek.md",
     "Images/Scorn_human.jpeg",
     "Images/Scorn_dragon.png",
     "Images/blighthollow.jpg",
     "Images/sailing_ship.jpg",
     "Images/killian_peak.png",
-    "Images/DragonScroll.webp",
-    "Images/FarshorePortImage.jpg",
     "Characters",
     "Images/smallcrest.jpg.crdownload",
     "Images/river_journey.jpg.crdownload",

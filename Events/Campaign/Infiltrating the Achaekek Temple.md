@@ -1,4 +1,4 @@
-	#campaign #timeline 
+#campaign #timeline 
 <span  
 class='ob-timelines'  
 data-date='1344-02-06'  
@@ -47,4 +47,17 @@ In an attempt to beg for her own life, [[Vissariss]] shares the following inform
 * [[Vissariss]] assumed the party to be sent as revenge for kidnapping [[Alexander Starchild]] and not fulfilling their end of the bargain.
 * [[Borial]] is alive and in the dungeons.
 * [[The Dawn Blades]] have high quarter in [[Iomedar]]. [[Golliander Starchild]] does not know that there is a teleportation circle heading to [[Iomedar]] located beneth the Achaekek temple.
-The party notices [[Alexander Starchild]] tied up in the corner of the main room. [[Nazromir]] prays to [[Sarenrae]] for guidance on whether or not to trust [[Alexander Starchild]] and receives a warm calming sensation in response.
+The party notices [[Alexander Starchild]] tied up in the corner of the main room. [[Nazromir]] prays to [[Sarenrae]] for guidance on whether or not to trust [[Alexander Starchild]] and receives a warm calming sensation in response. The party interrogates [[Alexander Starchild]] and come to the conclusion that they believe him not to be evil but rather a lawful pawn; they remove his blade before setting him free.
+
+The party clears out the [[Vissariss]]' horde and Nazromir discovers that the central pedestal with the cup is the teleportation circle which was mentioned but it requires a sacrifice and for one to dedicate one self to [[Achaekek]] in order to operate.
+
+In the library, Nazromir and Lucian find two books.
+* Chronicles of the Red Mantis, The third in a series of books that document the secret and publicly known missions carried out by the Red Mantis assassins, this volume focuses on their exploits on the dark side of the planet. One particular mission mentions a run in with The [[League of the Divine Wind]], and their undead leader whose name seems to have been struck out at a later date. (Dated two years ago)
+* The Codex of Tangled Fates. (see document)
+[[Lucian]] also shares an account of his vison, revealing that [[Nethys]] is somehow involved in the nature of his curse. [[Lucian]]'s curse is likely-fate bound. Direct intervention/guidance from a god, especially Nethys, is very rare. 
+
+Bob notices a hidden compartment in one of the beard-rings of the tortured dward, revealing a note with a location detailing a meeting with an [[Evandell]] to discuss finding [[The Biography]]. [[The Biography]] is known to Nazromir as the biography of [[Durgan Torason]], a mythical folk-hero of the dwarves. 
+
+[[Robert Sköld]] saves [[Borial]].
+
+The party leaves, [[Scorn]] departs for [[Serenity atoll]], [[Borial]] shares that vipers where hunting for a dwarf. The party sets of to find the meeting place in the note which [[Bob the Balchemist]] discovered.

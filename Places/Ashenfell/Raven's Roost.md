@@ -1,0 +1,1 @@
+A stronghold of smugglers and information gatherers.

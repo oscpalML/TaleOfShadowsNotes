@@ -1,0 +1,1 @@
+Order in [[Celebros, The Silver Coast]] that guards against and explores [[Yinora]]. They collect [[Midnight Dew]], a crystal from [[Yinora]] which provides light which they use to supplement their farming. 

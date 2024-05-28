@@ -23,7 +23,7 @@ The party meets three figures in the Sirens Lament tavern. A half-ogre, a serpen
 
 >Ythné den enögde vArrr i hans egna ord sin tids största pirat. Han plundrade och bedrog värre än någon annan, och hade alltid över sin karriär vunnit ett skepp fler än han förlorat. Men både var i stortal. En kväll, i hopp om att binda band med en annan piratkung, glömde Ythné en pirats viktigaste band - det till hans besättning. För att behaga denna andra piratkungen bjöd han på ljuva skatter, skatter som rättmätligt skulle delats med hans besättning istället. Och när han tittade åt sin vän piratkungen med vänster öga, missade hans lappade höger matronernas hämnd! De tillfångatog Ythne den Enögde, och hängde han, uppe på Hangman's hill.
 
->Han velArr där än idag i spöklig gestalt, om hans missöde och orättvisan bakom det. Lyssna till hans visdom, och fråga om det sanna priset för en andra chans.
+>Han velarr där än idag i spöklig gestalt, om hans missöde och orättvisan bakom det. Lyssna till hans visdom, och fråga om det sanna priset för en andra chans.
 
 The party makes their way to Hangman hill where they manage to summon the ghost of Ythné, who offers the next clue. 
 
