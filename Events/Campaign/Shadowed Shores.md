@@ -6,30 +6,24 @@ data-title='Shadowed Shores'
 data-class='orange'  
 data-img = 'Images/ghostlight2.jpg'  
 data-type='range'>  
-The party dives into the murderous depths which the Vipers call home.
+The party arrives in the haunted port of Ghostlight in search for treasures.
 </span>
 
-letar efter Marrow-veil som det stog vi skulle. 
+[[The Emerald Marauder]] arrives in [[Ghostlight]], being guided by the spectral wisps which give the town its name. The party is here in search of [[Captain Marrowveil]], the one who should hold the next clue of [[The Biography]]'s whereabouts.
 
-Ghostlight har The Phantom Grogg och The Witchlight är två tavernor. The Misty Market säljer fisk men kanske lite annat också. 
+[[Nazromir]] discovers the crooked hut of [[Ghostlight#Berit's Bobs and Baubles|Berit's Bobs and Baubles]]. The hag deals not in currency but rather trades, luckily she is not too sinister. In exchange for a kitchen-guiding magic item, the party takes up the quest to deliver a necklace to Berit's sister, the sea-hag [[Old Hag Fishbones]]. Her hut is south of town in a swamp-like area.
 
-Naz hittar occult-hydda, där sitter en läskig gumma. Byter massa grejer med henne.
+The party takes in at [[Ghostlight#Witchlight Inn]] in search of answers. Nazromir meets a wizard from [[Nólalóte]], [[Iramazz]], who was teleported to [[Ghostlight]] by mistake. The wizard and Nazromir get up to hijinks and end up throwing a fireball at the central lighthouse. The wizard scribes a scroll of Fireball for Nazromir.
 
-Går till Witchlight Inn, det är typ ett bibliotek. 
+The party finds out about the three ghosts which inhabit the central lighthouse [[Nazromir]] just fireball'd. They are known as [[The Elder Council]] and claim to rule [[Ghostlight]] but in reality have very little impact.
 
-Finns tre spöken som bor i fyren. The Elder Council, de gör inte så mycket men påstår att de styr. 
+The party speaks with the bartender Melinda and hears rumors about a recent shipwreck down south which is allegedly haunted by now.  They also read about [[The Cult of Last Whispers]], a faction which wields the power of last words spoken before death. [[The Drowned Court]] is said to be a sea-faring faction of ghost who have a tendency to perform unwilling sacrifices. Finally, they find out that [[Captain Marrowveil]] is one of the three ghosts inhabiting the lighthouse.
 
-Något skepp gick på grund söderut och ska vara hemsökt vid detta laget. The Cult of Last Whispers, kraft i sista ord kult. The Drowned Court, gillar att offra saker så passa dig. Berits Bobs and Baubles är nog den äldsta personen i staden. Iramazz var trollkarlen. 
+The party infiltrates the lighthouse, posing as lighthouse repair-men, contracted to repair the lighthouse. They come to realise that ghosts have a poor grasp of time which aids their deception.
 
-Bartender tjejen heter Melinda.
+The lady-ghost is [[Lady Elowen]], she is constantly crying over the loss of their fiance Erik. They where on their way to [[Silveria]] for their honeymoon but their sank, attacked by some monster in a storm. Erik and she grew up in the same town as Lucian. [[Nazromir]] comforts her and gets invited to a memorial celebration in two days which the other ghosts will also attend. The third ghost is known as [[Thornwick]]
 
-Marrow-veil är ett av de tre spökena i fyren.
-
-Får halsband av berit att ge till hennes sea hag syrra.
-
-Tjejspöket Lady Elowen gråter över att Erik dog och lämnade henne. De skulle till Silveria på smekmånad men deras skepp sjönk, brutet av något odjur i stormen. När hon kom till stranden var hon ett spöke. De levde i samma stad som Lucian kommer från. Hon gråter över ett gammal kärleksbrev. De har en minnesstund för Erik om två dagar. Kaptenen och Thornwhick ska på minnesstunden. 
-
-Haggan heter Old Hag Fishbone. Hyttan är i ett typ träsk med lera.
+The party fixes the lighthouse a little and then sets of to find [[Old Hag Fishbones]]. The
 
 Ships logg och manifest. 
 
