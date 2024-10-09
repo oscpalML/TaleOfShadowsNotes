@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "627530fb916f64d6",
+            "id": "07d28b9487805fc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Campaign/Shadowed Shores.md",
+                "file": "Events/Campaign/Session 16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "683d6d53b7f659ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Biography.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Campaign/Shadowed Shores.md",
+                "file": "The Biography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Campaign/Shadowed Shores.md",
+                "file": "The Biography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Campaign/Shadowed Shores.md"
+                "file": "The Biography.md"
               }
             }
           },
@@ -161,16 +175,29 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "627530fb916f64d6",
+  "active": "683d6d53b7f659ec",
   "lastOpenFiles": [
-    "Events/Campaign/Infiltrating the Achaekek Temple.md",
-    "Events/Campaign/Session 17.md",
     "Events/Campaign/Session 16.md",
+    "The Biography.md",
+    "The Sunken Jewel of Elghinn.md",
+    "Events/Campaign/Session 17.md",
+    "Events/Campaign/The Rock of Ages.md",
+    "Images/Jewel_of_Elghinn.png",
+    "Places/Tir na Lir/Tir na Lir.md",
+    "Places/Tir na Lir/Eversun.md",
     "Events/Campaign/Session 15.md",
     "Events/Campaign/Session 14.md",
-    "Events/Campaign/Session 13.md",
-    "Events/Campaign/Session 12.md",
     "Events/Campaign/Shadowed Shores.md",
+    "Characters/Robert Sköld.md",
+    "Timeline.md",
+    "Images/Rock of Ages.jpeg",
+    "Images/Rock of Ages 1.jpeg",
+    "Lore/Lore Quizzes.md",
+    "Events/Campaign/Session 12.md",
+    "Map/Map.md",
+    "Magic Item Wishlist.md",
+    "Prince Ribbitus Hexenwald.md",
+    "Events/Campaign/Infiltrating the Achaekek Temple.md",
     "Events/Campaign/Setting sail.md",
     "Events/Campaign/Shady dealings in Blighthollow.md",
     "Events/Campaign/Journey to Blighthollow.md",
@@ -178,11 +205,6 @@
     "Events/Campaign/Intrigues in Farshore Port.md",
     "Events/Campaign/Return to Yellowfield.md",
     "Events/Campaign/Smallcrest encounter.md",
-    "Events/Campaign/Journey to Smallcrest.md",
-    "Events/Campaign/Mayor Edwins Announcement.md",
-    "Events/Campaign/Arrival at Yellowfield.md",
-    "Timeline.md",
-    "Events/Timeline junk/Irori ascends.md",
     "Images/ghostlight2.jpg",
     "Images/EmeraldMarauder.png",
     "Images/achaekek_sacrificial_room.png",
@@ -190,9 +212,6 @@
     "Images/the_whispering_hall.png",
     "Images/Scorn_human.jpeg",
     "Images/Scorn_dragon.png",
-    "Images/blighthollow.jpg",
-    "Images/sailing_ship.jpg",
-    "Images/killian_peak.png",
     "Characters",
     "Images/smallcrest.jpg.crdownload",
     "Images/river_journey.jpg.crdownload",
