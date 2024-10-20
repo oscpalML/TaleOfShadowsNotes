@@ -22,5 +22,14 @@ https://2e.aonprd.com/Equipment.aspx?ID=2789&Redirected=1
 Invisibility Armor Rune
 https://2e.aonprd.com/Equipment.aspx?ID=2790&Redirected=1
 
-Pendant of the occult upgrade!
+Mage's hat
+https://2e.aonprd.com/Equipment.aspx?ID=443&NoRedirect=1
 
+Boots of bounding
+https://2e.aonprd.com/Equipment.aspx?ID=412&NoRedirect=1
+
+Messenger's Ring
+https://2e.aonprd.com/Equipment.aspx?ID=448&NoRedirect=1
+
+Phylactery of Faithfulness
+https://2e.aonprd.com/Equipment.aspx?ID=452

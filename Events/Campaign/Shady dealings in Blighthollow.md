@@ -49,7 +49,7 @@ Skatten tillhör The Dare Pirates. Lead by the charismatic captain Darealia.
 
 Nazromir tar med Cursed Rib and Finger Of The Pirate Lord. 
 #### Sarah's Story
-[[Sarah Steelheart|Sarah]] tells the story of why she is hunted by [[The Vipers]]. [[Sarah Steelheart|Sarah]] met a man, [[Borial]], who convinced her to fight for the greater good. They decided to take down [[The Vipers]] and [[Vissariss]]. On the 10th of January, they infiltrated a Viper base located by [[Blighthollow#Hagfoot Bridge|Hagfoot Bridge]], a warehouse used to store contraband. Their mission was to plant false evidence of a internal plot to overthrow Visarys, in order to incite in-fighting. After they had planted the evidence, [[Sarah Steelheart|Sarah]] snuck closer to [[Vissariss]] and overhead a conversation with some churchly person, she overhears the name "[[Golliander Starchild]]":
+[[Sarah Steelheart|Sarah]] tells the story of why she is hunted by [[The Vipers]]. [[Sarah Steelheart|Sarah]] met a man, [[Borial]], who convinced her to fight for the greater good. They decided to take down [[The Vipers]] and [[Vissariss]]. On the 10th of January, they infiltrated a Viper base located by [[Blighthollow#Hagfoot Bridge|Hagfoot Bridge]], a warehouse used to store contraband. Their mission was to plant false evidence of a internal plot to overthrow Visarys, in order to incite in-fighting. After they had planted the evidence, [[Sarah Steelheart|Sarah]] snuck closer to [[Vissariss]] and overhead a conversation with some churchly person, she overhears the name "[[Goliander Starchild]]":
 
 >"The deaaaal was to kill him and leave nothing of hissss body for his soul to return to... We upheld that contract..." 
 >"-You won't slither yourself out of this, snake! Do not forget your reward is dependant on our Lord's ascension. By this covenant we are still bound, regardless of the former technicality. Do not forget this, [[Vissariss]] - and your treasure will be yours eventually... ?The Sunrise Legion? will contact you *Sara knocks over plank* ... What was that?"
@@ -57,7 +57,7 @@ Nazromir tar med Cursed Rib and Finger Of The Pirate Lord.
 [[Borial]] is captured but Sarah manages to escape. [[Sarah Steelheart|Sarah]] is certain that [[Borial]]
 is dead but can not confirm it.
 
-The churchly person bears a resemblance to the person in the painting in the Starchild Estate at [[Killian Peak]]. The party suspects that this person is [[Golliander Starchild]]. 
+The churchly person bears a resemblance to the person in the painting in the Starchild Estate at [[Killian Peak]]. The party suspects that this person is [[Goliander Starchild]]. 
 
 The party asks about the other factions on the island and learn about [[The Dark Dagger Veils]]. They are a more traditional hitman-group, one which despises the recklessness and unprofessional [[The Vipers]]. The party also learns about [[The Hooded Lanterns]], the faction to which [[Borial]] belonged, a faction which tries to be good and provide people with a second chance. 
 #### The Search for Scorn
