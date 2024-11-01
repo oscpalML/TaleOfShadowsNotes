@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "ezaros-world-region",
-      "lastAccessed": 1728156216367,
+      "lastAccessed": 1729949799051,
       "markers": [
         {
           "id": "Shallowport",
@@ -462,6 +462,38 @@
           "loc": [
             259.5891659122898,
             338.6419945597668
+          ],
+          "layer": "%5B%5BYangoraHex.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e85ac8ba785b",
+          "type": "default",
+          "loc": [
+            308.9765634536743,
+            414.5437469482422
+          ],
+          "layer": "%5B%5BYangoraHex.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_591818c8a8bb",
+          "type": "default",
+          "loc": [
+            251.25312995910645,
+            458.88751220703125
           ],
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
           "mutable": true,

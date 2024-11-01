@@ -33,3 +33,6 @@ https://2e.aonprd.com/Equipment.aspx?ID=448&NoRedirect=1
 
 Phylactery of Faithfulness
 https://2e.aonprd.com/Equipment.aspx?ID=452
+
+Belt of good health
+https://2e.aonprd.com/Equipment.aspx?ID=913
