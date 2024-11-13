@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "ezaros-world-region",
-      "lastAccessed": 1729949799051,
+      "lastAccessed": 1730557478938,
       "markers": [
         {
           "id": "Shallowport",
@@ -495,6 +495,74 @@
             251.25312995910645,
             458.88751220703125
           ],
+          "layer": "%5B%5BYangoraHex.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18c8989a7ab9",
+          "type": "default",
+          "loc": [
+            283.62656116485596,
+            454.4937438964844
+          ],
+          "link": "Ghostlight",
+          "layer": "%5B%5BYangoraHex.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_798beac9bbbb",
+          "type": "default",
+          "loc": [
+            229.52578210830688,
+            499.6843719482422
+          ],
+          "link": "Lumin",
+          "layer": "%5B%5BYangoraHex.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98388b98099a",
+          "type": "default",
+          "loc": [
+            288.51328134536743,
+            522.859375
+          ],
+          "link": "Bane's Warth",
+          "layer": "%5B%5BYangoraHex.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7848097a6a3a",
+          "type": "default",
+          "loc": [
+            286.7515649795532,
+            485.1437454223633
+          ],
+          "link": "Duskhaven",
           "layer": "%5B%5BYangoraHex.jpg%5D%5D",
           "mutable": true,
           "command": false,

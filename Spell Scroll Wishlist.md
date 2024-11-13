@@ -32,3 +32,9 @@ https://2e.aonprd.com/Spells.aspx?ID=949
 
 Air Walk
 https://2e.aonprd.com/Spells.aspx?ID=6
+
+Illusory Disguise
+https://2e.aonprd.com/Spells.aspx?ID=1568&Redirected=1
+
+Enlarge (4th)
+https://2e.aonprd.com/Spells.aspx?ID=102&NoRedirect=1

@@ -30,7 +30,7 @@ The party is then lead to a second chamber containing murals. All murals contain
 	"Marrowveil blir chockerad/blir tvungen hålla tungan rätt i mun när naz frågar om det handlar om mid-sea isles meteoren." fråga malte om förtydligande
 
 The party is then lead to a final room with only a single mural. This mural depicts the five heroes sacrificing something of themselves to a dark void in exchange for information.
-![[void_mural.jpeg|800]]
+![[void_mural.jpeg|700]]
 [[Thornwick]] shares that the paladin is [[The Watchers#Omen|Omen]] and that he retained his heart when all the other heroes sacrificed theirs. It is assumed that he betrayed the other heroes or betrayed the entity they sacrificed to. Someone is searching for whatever [[The Watchers#Omen|Omen]] stole. 
 
 [[Thornwick]] speaks about the world before, the one that was remade by [[The Watchers]]. He exists to safeguard the knowledge of and from that world since it should not exist anymore.
@@ -39,7 +39,7 @@ The party is then lead to a final room with only a single mural. This mural depi
 
 [[Thornwick]] shares that [[The Drowned Court]] have long laid claim to [[Ghostlight]]. Now with [[Captain Marrowveil]] gone they likely see their opening. They are likely tied to [[The Unspeakable/The Oracle]]. They possess magic which should not be. 
 
-[[Ashenfell]] is somewhat uniquely tied to the world that was before.
+[[Ashenfell]] is somehow uniquely tied to the world that was before.
 
 [[The Unspeakable/The Oracle]] seems to be collecting the characteristics of mortals, trying to complete itself. It is gathering empathy, heritage, hope and so on.
 

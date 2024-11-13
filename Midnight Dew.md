@@ -1,0 +1,1 @@
+A crystal which produces a light very nutritious to plants.
