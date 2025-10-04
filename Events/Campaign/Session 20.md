@@ -1,5 +1,8 @@
 TBD
 
-Skicka dream message till Citaon!
+Skickar dream message till Ci'taon!
+
+Zon-Kuthon ritual
+
 
 

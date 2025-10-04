@@ -37,7 +37,7 @@ The party is then lead to a final room with only a single mural. This mural depi
 
 [[Thornwick]] discovers some runes in one of the murals. [[Nazromir]] copies the runes and deduces that the runes are strikingly similar to the earliest giant scripts. The same runes cover the hammer that is on the third piedestal.  
 
-[[Thornwick]] shares that [[The Drowned Court]] have long laid claim to [[Ghostlight]]. Now with [[Captain Marrowveil]] gone they likely see their opening. They are likely tied to [[The Unspeakable/The Oracle]]. They possess magic which should not be. 
+[[Thornwick]] shares that [[The Drowned Court]] have long laid claim to [[Ghostlight]]. Now with [[Captain Marrowveil]] gone they likely see their opening. They are likely tied to [[The Unspeakable|The Unspeakable/The Oracle]]. They possess magic which should not be. 
 
 [[Ashenfell]] is somehow uniquely tied to the world that was before.
 

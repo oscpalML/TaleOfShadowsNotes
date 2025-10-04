@@ -12,7 +12,7 @@ Imprisoned since the Age of Creation, the god [[Rovagug]] seeks only to destroy 
 
 [[Urgathoa]] is the Varisian goddess of physical excess, disease, and the undead
 
-[[Zon-Kuthon]] possesses one of the most twisted and evil minds in the Great Beyond. His position as god of pain is well earned, and he has been the root of countless tortures, murders, and worse throughout time.
+[[Zon-Kuthon]] possesses one of the most twisted and evil minds in the Great Beyond. His position as god of pain is well earned, and he has been the root of countless tortures, murders, and worse throughout time. 
 
 [[Ghlaunder]] is the demigod of parasites and disease. His symbol is that of a blood-engorged mosquito
 

@@ -1,3 +1,6 @@
+Ring of Wizardry
+https://2e.aonprd.com/Equipment.aspx?ID=462
+
 Stone of Encouragement
 https://2e.aonprd.com/Equipment.aspx?ID=2467
 
